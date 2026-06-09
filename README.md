@@ -13,7 +13,7 @@ Diversity analysis (Alpha, Beta & Principal component analysis) - Python (Pandas
 Functional metagenomic analysis - KEGG, COG & SEED
 
 ## Data
-The dataset consists of total a 6 samples from Kochi sediment upper and lower regions upper part (S1UP, S2UP, S3UP) and lower part (S1LP, S2LP, S3LP).
+The dataset consists of total a 6 sediment samples
 
 ## Result summary
 The study identifies sample specific microbial taxa on phylum, genus and species level taxa, ARG profiles, HMRG profiles and functional metagenomics.
